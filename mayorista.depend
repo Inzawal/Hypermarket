@@ -1,0 +1,740 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\matis\desktop\zerafin\facultad\labo ii\codeblocks\clases\mayorista\main.cpp
+	<iostream>
+
+1683511516 source:c:\users\matis\desktop\zerafin\facultad\labo ii\codeblocks\clases\mayorista\src\producto.cpp
+	<iostream>
+	"Producto.h"
+
+1683512487 c:\users\matis\desktop\zerafin\facultad\labo ii\codeblocks\clases\mayorista\include\producto.h
+
+1683512295 source:c:\users\matis\desktop\zerafin\facultad\labo ii\codeblocks\clases\mayorista\src\proveedores.cpp
+	<iostream>
+	"Proveedores.h"
+
+1683512487 c:\users\matis\desktop\zerafin\facultad\labo ii\codeblocks\clases\mayorista\include\proveedores.h
+
+1683512540 source:c:\users\matis\desktop\zerafin\facultad\labo ii\codeblocks\clases\mayorista\src\empleado.cpp
+	<iostream>
+	"Empleado.h"
+
+1683512718 c:\users\matis\desktop\zerafin\facultad\labo ii\codeblocks\clases\mayorista\include\empleado.h
+
+1688069160 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\main.cpp
+	<iostream>
+	"Hypermarket.h"
+	"Producto.h"
+	"ArchivoProveedor.h"
+	"ArchivoHypermarket.h"
+	"ArchivoEmpleados.h"
+	"Fecha.h"
+	<cctype>
+
+1688065824 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\empleado.cpp
+	"Empleado.h"
+
+1688065655 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\empleado.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	<Menu.h>
+
+1688068411 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\producto.cpp
+	"Producto.h"
+
+1688068411 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\producto.h
+	<iostream>
+	<cstring>
+	"funciones.h"
+	"Menu.h"
+
+1683512295 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\proveedores.cpp
+	<iostream>
+	"Proveedores.h"
+
+1683512487 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\proveedores.h
+
+1684977646 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\proveedor.cpp
+	<iostream>
+	"Proveedor.h"
+
+1684792509 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\proveedor.h
+	"ListadoProveedor.h"
+	"ListadoHypermarket.h"
+	"Menu.h"
+
+1684794068 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\listadoproveedor.cpp
+	<iostream>
+	"ListadoProveedor.h"
+
+1684794046 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\listadoproveedor.h
+	"Producto.h"
+
+1688069455 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\hypermarket.cpp
+	"Hypermarket.h"
+
+1688069332 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\hypermarket.h
+	<iostream>
+	"Menu.h"
+	"ArchivoHypermarket.h"
+	"ArchivoProveedor.h"
+	"ArchivoEmpleados.h"
+	"ArchivoCierreZ.h"
+	"Fecha.h"
+	"CierreZ.h"
+
+1683844209 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\comida.cpp
+	<iostream>
+	"Comida.h"
+
+1683844784 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\comida.h
+	"Producto.h"
+
+1684278462 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\funciones.h
+
+1684017332 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\funciones.cpp
+	<iostream>
+	<cstring>
+
+1685058769 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\main.cpp
+	<iostream>
+	"Hypermarket.h"
+	"Producto.h"
+	"ArchivoProveedor.h"
+	"ArchivoHypermarket.h"
+	"ArchivoEmpleados.h"
+
+1685598306 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\include\hypermarket.h
+	<iostream>
+	"Hypermarket.h"
+	"Menu.h"
+	"ArchivoHypermarket.h"
+	"ArchivoProveedor.h"
+	"ArchivoEmpleados.h"
+
+1685047294 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\include\producto.h
+	<iostream>
+	<cstring>
+	"funciones.h"
+
+1685051450 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\include\listadoproveedor.h
+	<iostream>
+	"Producto.h"
+	"Menu.h"
+
+1685051345 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\include\proveedor.h
+	<iostream>
+	"Menu.h"
+	"ListadoHypermarket.h"
+	"ListadoProveedor.h"
+
+1685047294 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\src\empleado.cpp
+	"Empleado.h"
+
+1685047294 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\include\empleado.h
+	<iostream>
+	<cstring>
+
+1685598390 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\src\hypermarket.cpp
+	"Hypermarket.h"
+
+1685051345 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\src\listadoproveedor.cpp
+	"ListadoProveedor.h"
+
+1685047294 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\src\producto.cpp
+	"Producto.h"
+
+1684278462 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\include\funciones.h
+
+1685051345 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\src\proveedor.cpp
+	"Proveedor.h"
+
+1685047091 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\src\menuabm.cpp
+	"MenuABM.h"
+
+1685047091 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\menuabm.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Empleado.h"
+	"Hypermarket.h"
+
+1684790266 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\menuabm.cpp
+	<iostream>
+	"Hypermarket.h"
+	"MenuABM.h"
+	<cstring>
+	<cstdlib>
+	"Empleado.h"
+
+1684787414 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\menuabm.h
+
+1684977284 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\listadohypermarket.cpp
+	<iostream>
+	"ListadoHypermarket.h"
+
+1684976081 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\listadohypermarket.h
+	"Producto.h"
+	"Hypermarket.h"
+
+1685047294 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\include\listadohypermarket.h
+	<iostream>
+	"Producto.h"
+	"Hypermarket.h"
+
+1685053801 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\src\listadohypermarket.cpp
+	"ListadoHypermarket.h"
+
+1685395498 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\include\menu.h
+	<iostream>
+	<stdlib.h>
+
+1685395499 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\src\menu.cpp
+	"Menu.h"
+
+1688069222 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\menu.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<limits>
+	"Fecha.h"
+	"CierreZ.h"
+	"Hypermarket.h"
+	"ArchivoProveedor.h"
+	"ArchivoEmpleados.h"
+	"ArchivoCierreZ.h"
+
+1688069633 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\menu.cpp
+	"Menu.h"
+
+1685597783 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\include\archivohypermarket.h
+	<iostream>
+	"Producto.h"
+	"Hypermarket.h"
+
+1685596081 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\include\archivoproveedor.h
+	<iostream>
+	"Producto.h"
+	"Menu.h"
+
+1685596081 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\src\archivoproveedor.cpp
+	"ArchivoProveedor.h"
+
+1685480224 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\src\archivoempleados.cpp
+	"ArchivoEmpleados.h"
+
+1685480224 c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\include\archivoempleados.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Empleado.h"
+	"Hypermarket.h"
+
+1685597921 source:c:\users\enzo1\desktop\tercer catrimestre\mayorista-c\mayorista\src\archivohypermarket.cpp
+	"ArchivoHypermarket.h"
+
+1688067686 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\archivohypermarket.h
+	<iostream>
+	<conio.h>
+	"Producto.h"
+	"Hypermarket.h"
+
+1687985932 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\archivoproveedor.h
+	<iostream>
+	"Producto.h"
+	"Menu.h"
+
+1687985932 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\archivoempleados.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	"Empleado.h"
+	"Hypermarket.h"
+	"Fecha.h"
+	"Menu.h"
+
+1688066021 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\archivoempleados.cpp
+	"ArchivoEmpleados.h"
+
+1688067812 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\archivohypermarket.cpp
+	"ArchivoHypermarket.h"
+
+1688065370 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\archivoproveedor.cpp
+	"ArchivoProveedor.h"
+
+1686780485 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<string>
+
+1686618996 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\fecha.h
+
+1688069440 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\archivocierrez.cpp
+	<iostream>
+	"ArchivoCierreZ.h"
+
+1687985932 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\archivocierrez.h
+	<conio.h>
+	"CierreZ.h"
+	"Fecha.h"
+
+1687985752 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\src\cierrez.cpp
+	<iostream>
+	"CierreZ.h"
+
+1687985931 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\repositorio github\mayorista-c-\mayorista\include\cierrez.h
+	"Fecha.h"
+	"ArchivoCierreZ.h"
+	"Menu.h"
+
+1687985830 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\main.cpp
+	<iostream>
+	"Hypermarket.h"
+	"Producto.h"
+	"ArchivoProveedor.h"
+	"ArchivoHypermarket.h"
+	"ArchivoEmpleados.h"
+	"Fecha.h"
+	<cctype>
+
+1687985931 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\include\hypermarket.h
+	<iostream>
+	"Menu.h"
+	"ArchivoHypermarket.h"
+	"ArchivoProveedor.h"
+	"ArchivoEmpleados.h"
+	"ArchivoCierreZ.h"
+	"Fecha.h"
+	"CierreZ.h"
+
+1687985932 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\include\menu.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<limits>
+	"Fecha.h"
+	"CierreZ.h"
+	"Hypermarket.h"
+	"ArchivoProveedor.h"
+	"ArchivoEmpleados.h"
+	"ArchivoCierreZ.h"
+
+1687985932 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\include\archivohypermarket.h
+	<iostream>
+	<conio.h>
+	"Producto.h"
+	"Hypermarket.h"
+
+1687985932 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\include\producto.h
+	<iostream>
+	<cstring>
+	"funciones.h"
+
+1684278462 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\include\funciones.h
+
+1687985932 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\include\archivoproveedor.h
+	<iostream>
+	"Producto.h"
+	"Menu.h"
+
+1687985932 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\include\archivoempleados.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	"Empleado.h"
+	"Hypermarket.h"
+	"Fecha.h"
+	"Menu.h"
+
+1687985932 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\include\empleado.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+
+1687985932 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\include\archivocierrez.h
+	<conio.h>
+	"CierreZ.h"
+	"Fecha.h"
+
+1687985931 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\include\cierrez.h
+	"Fecha.h"
+	"ArchivoCierreZ.h"
+	"Menu.h"
+
+1686618996 c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\include\fecha.h
+
+1687985607 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\src\archivocierrez.cpp
+	<iostream>
+	"ArchivoCierreZ.h"
+
+1687985629 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\src\archivoempleados.cpp
+	"ArchivoEmpleados.h"
+
+1687985733 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\src\archivohypermarket.cpp
+	"ArchivoHypermarket.h"
+
+1687985743 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\src\archivoproveedor.cpp
+	"ArchivoProveedor.h"
+
+1687985752 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\src\cierrez.cpp
+	<iostream>
+	"CierreZ.h"
+
+1687985772 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\src\empleado.cpp
+	"Empleado.h"
+
+1686780485 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<string>
+
+1687985783 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\src\hypermarket.cpp
+	"Hypermarket.h"
+
+1687985795 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\src\menu.cpp
+	"Menu.h"
+
+1687985804 source:c:\users\matis\desktop\zerafin\facultad\labo ii\trabajo grupal\mayorista\src\producto.cpp
+	"Producto.h"
+
+1688071686 source:c:\users\usuario\desktop\proyecto labo 2\mayorista\main.cpp
+	<iostream>
+	"Hypermarket.h"
+	"Producto.h"
+	"ArchivoProveedor.h"
+	"ArchivoHypermarket.h"
+	"ArchivoEmpleados.h"
+	"Fecha.h"
+	<cctype>
+
+1688069332 c:\users\usuario\desktop\proyecto labo 2\mayorista\include\hypermarket.h
+	<iostream>
+	"Menu.h"
+	"ArchivoHypermarket.h"
+	"ArchivoProveedor.h"
+	"ArchivoEmpleados.h"
+	"ArchivoCierreZ.h"
+	"Fecha.h"
+	"CierreZ.h"
+
+1688069222 c:\users\usuario\desktop\proyecto labo 2\mayorista\include\menu.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<limits>
+	"Fecha.h"
+	"CierreZ.h"
+	"Hypermarket.h"
+	"ArchivoProveedor.h"
+	"ArchivoEmpleados.h"
+	"ArchivoCierreZ.h"
+
+1686618996 c:\users\usuario\desktop\proyecto labo 2\mayorista\include\fecha.h
+
+1687985931 c:\users\usuario\desktop\proyecto labo 2\mayorista\include\cierrez.h
+	"Fecha.h"
+	"ArchivoCierreZ.h"
+	"Menu.h"
+
+1687985932 c:\users\usuario\desktop\proyecto labo 2\mayorista\include\archivocierrez.h
+	<conio.h>
+	"CierreZ.h"
+	"Fecha.h"
+
+1687985932 c:\users\usuario\desktop\proyecto labo 2\mayorista\include\archivoproveedor.h
+	<iostream>
+	"Producto.h"
+	"Menu.h"
+
+1688068411 c:\users\usuario\desktop\proyecto labo 2\mayorista\include\producto.h
+	<iostream>
+	<cstring>
+	"funciones.h"
+	"Menu.h"
+
+1684278462 c:\users\usuario\desktop\proyecto labo 2\mayorista\include\funciones.h
+
+1687985932 c:\users\usuario\desktop\proyecto labo 2\mayorista\include\archivoempleados.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	"Empleado.h"
+	"Hypermarket.h"
+	"Fecha.h"
+	"Menu.h"
+
+1688070997 c:\users\usuario\desktop\proyecto labo 2\mayorista\include\empleado.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	<Menu.h>
+
+1688067686 c:\users\usuario\desktop\proyecto labo 2\mayorista\include\archivohypermarket.h
+	<iostream>
+	<conio.h>
+	"Producto.h"
+	"Hypermarket.h"
+
+1688071795 source:c:\users\usuario\desktop\proyecto labo 2\mayorista\src\archivocierrez.cpp
+	<iostream>
+	"ArchivoCierreZ.h"
+
+1688066021 source:c:\users\usuario\desktop\proyecto labo 2\mayorista\src\archivoempleados.cpp
+	"ArchivoEmpleados.h"
+
+1688067812 source:c:\users\usuario\desktop\proyecto labo 2\mayorista\src\archivohypermarket.cpp
+	"ArchivoHypermarket.h"
+
+1688065370 source:c:\users\usuario\desktop\proyecto labo 2\mayorista\src\archivoproveedor.cpp
+	"ArchivoProveedor.h"
+
+1687985752 source:c:\users\usuario\desktop\proyecto labo 2\mayorista\src\cierrez.cpp
+	<iostream>
+	"CierreZ.h"
+
+1688070869 source:c:\users\usuario\desktop\proyecto labo 2\mayorista\src\empleado.cpp
+	"Empleado.h"
+
+1686780485 source:c:\users\usuario\desktop\proyecto labo 2\mayorista\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<string>
+
+1688069455 source:c:\users\usuario\desktop\proyecto labo 2\mayorista\src\hypermarket.cpp
+	"Hypermarket.h"
+
+1688069633 source:c:\users\usuario\desktop\proyecto labo 2\mayorista\src\menu.cpp
+	"Menu.h"
+
+1688068411 source:c:\users\usuario\desktop\proyecto labo 2\mayorista\src\producto.cpp
+	"Producto.h"
+
+1688071686 source:c:\users\usuario\desktop\hypermarket\main.cpp
+	<iostream>
+	"Hypermarket.h"
+	"Producto.h"
+	"ArchivoProveedor.h"
+	"ArchivoHypermarket.h"
+	"ArchivoEmpleados.h"
+	"Fecha.h"
+	<cctype>
+
+1688069332 c:\users\usuario\desktop\hypermarket\include\hypermarket.h
+	<iostream>
+	"Menu.h"
+	"ArchivoHypermarket.h"
+	"ArchivoProveedor.h"
+	"ArchivoEmpleados.h"
+	"ArchivoCierreZ.h"
+	"Fecha.h"
+	"CierreZ.h"
+
+1688069222 c:\users\usuario\desktop\hypermarket\include\menu.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<limits>
+	"Fecha.h"
+	"CierreZ.h"
+	"Hypermarket.h"
+	"ArchivoProveedor.h"
+	"ArchivoEmpleados.h"
+	"ArchivoCierreZ.h"
+
+1686618996 c:\users\usuario\desktop\hypermarket\include\fecha.h
+
+1687985931 c:\users\usuario\desktop\hypermarket\include\cierrez.h
+	"Fecha.h"
+	"ArchivoCierreZ.h"
+	"Menu.h"
+
+1687985932 c:\users\usuario\desktop\hypermarket\include\archivocierrez.h
+	<conio.h>
+	"CierreZ.h"
+	"Fecha.h"
+
+1687985932 c:\users\usuario\desktop\hypermarket\include\archivoproveedor.h
+	<iostream>
+	"Producto.h"
+	"Menu.h"
+
+1688068411 c:\users\usuario\desktop\hypermarket\include\producto.h
+	<iostream>
+	<cstring>
+	"funciones.h"
+	"Menu.h"
+
+1684278462 c:\users\usuario\desktop\hypermarket\include\funciones.h
+
+1687985932 c:\users\usuario\desktop\hypermarket\include\archivoempleados.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	"Empleado.h"
+	"Hypermarket.h"
+	"Fecha.h"
+	"Menu.h"
+
+1688070997 c:\users\usuario\desktop\hypermarket\include\empleado.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	<Menu.h>
+
+1688067686 c:\users\usuario\desktop\hypermarket\include\archivohypermarket.h
+	<iostream>
+	<conio.h>
+	"Producto.h"
+	"Hypermarket.h"
+
+1688071795 source:c:\users\usuario\desktop\hypermarket\src\archivocierrez.cpp
+	<iostream>
+	"ArchivoCierreZ.h"
+
+1688066021 source:c:\users\usuario\desktop\hypermarket\src\archivoempleados.cpp
+	"ArchivoEmpleados.h"
+
+1688067812 source:c:\users\usuario\desktop\hypermarket\src\archivohypermarket.cpp
+	"ArchivoHypermarket.h"
+
+1688065370 source:c:\users\usuario\desktop\hypermarket\src\archivoproveedor.cpp
+	"ArchivoProveedor.h"
+
+1687985752 source:c:\users\usuario\desktop\hypermarket\src\cierrez.cpp
+	<iostream>
+	"CierreZ.h"
+
+1688070869 source:c:\users\usuario\desktop\hypermarket\src\empleado.cpp
+	"Empleado.h"
+
+1686780485 source:c:\users\usuario\desktop\hypermarket\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<string>
+
+1688069455 source:c:\users\usuario\desktop\hypermarket\src\hypermarket.cpp
+	"Hypermarket.h"
+
+1688275925 source:c:\users\usuario\desktop\hypermarket\src\menu.cpp
+	"Menu.h"
+
+1688068411 source:c:\users\usuario\desktop\hypermarket\src\producto.cpp
+	"Producto.h"
+
+1688071686 source:d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\main.cpp
+	<iostream>
+	"Hypermarket.h"
+	"Producto.h"
+	"ArchivoProveedor.h"
+	"ArchivoHypermarket.h"
+	"ArchivoEmpleados.h"
+	"Fecha.h"
+	<cctype>
+
+1688069332 d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\include\hypermarket.h
+	<iostream>
+	"Menu.h"
+	"ArchivoHypermarket.h"
+	"ArchivoProveedor.h"
+	"ArchivoEmpleados.h"
+	"ArchivoCierreZ.h"
+	"Fecha.h"
+	"CierreZ.h"
+
+1688069222 d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\include\menu.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<limits>
+	"Fecha.h"
+	"CierreZ.h"
+	"Hypermarket.h"
+	"ArchivoProveedor.h"
+	"ArchivoEmpleados.h"
+	"ArchivoCierreZ.h"
+
+1686618996 d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\include\fecha.h
+
+1687985931 d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\include\cierrez.h
+	"Fecha.h"
+	"ArchivoCierreZ.h"
+	"Menu.h"
+
+1687985932 d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\include\archivocierrez.h
+	<conio.h>
+	"CierreZ.h"
+	"Fecha.h"
+
+1687985932 d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\include\archivoproveedor.h
+	<iostream>
+	"Producto.h"
+	"Menu.h"
+
+1688068411 d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\include\producto.h
+	<iostream>
+	<cstring>
+	"funciones.h"
+	"Menu.h"
+
+1684278462 d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\include\funciones.h
+
+1687985932 d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\include\archivoempleados.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	"Empleado.h"
+	"Hypermarket.h"
+	"Fecha.h"
+	"Menu.h"
+
+1688070997 d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\include\empleado.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	<Menu.h>
+
+1688067686 d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\include\archivohypermarket.h
+	<iostream>
+	<conio.h>
+	"Producto.h"
+	"Hypermarket.h"
+
+1688071795 source:d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\src\archivocierrez.cpp
+	<iostream>
+	"ArchivoCierreZ.h"
+
+1688066021 source:d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\src\archivoempleados.cpp
+	"ArchivoEmpleados.h"
+
+1688067812 source:d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\src\archivohypermarket.cpp
+	"ArchivoHypermarket.h"
+
+1688065370 source:d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\src\archivoproveedor.cpp
+	"ArchivoProveedor.h"
+
+1687985752 source:d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\src\cierrez.cpp
+	<iostream>
+	"CierreZ.h"
+
+1688070869 source:d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\src\empleado.cpp
+	"Empleado.h"
+
+1686780485 source:d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<string>
+
+1688069455 source:d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\src\hypermarket.cpp
+	"Hypermarket.h"
+
+1688275925 source:d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\src\menu.cpp
+	"Menu.h"
+
+1688068411 source:d:\cosas de walter\utn 3er cuatrimestre\laboratorio de computación 2\hypermarket\src\producto.cpp
+	"Producto.h"
+
